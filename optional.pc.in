@@ -1,0 +1,9 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=${prefix}/include
+
+Name: Optional Library
+Description: A general-purpose Maybe type for C
+Version: @VERSION@
+Cflags: -I${includedir}
