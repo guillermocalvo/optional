@@ -14,6 +14,38 @@
  * limitations under the License.
  */
 
+/**
+ * A general-purpose Maybe type for C.
+ *
+ * <a href="https://optional.guillermo.dev/">
+ * <img src="optional-logo.svg">
+ * </a>
+ *
+ * This library consists of one header file only. All you need to do is copy
+ * `optional.h` into your project, and include it.
+ *
+ * ```c
+ * #include <optional.h>
+ * ```
+ *
+ * Since it's a header-only library, there is no library code to link against.
+ *
+ * @remark
+ * Optionals are useful for representing values that may or may not be present.
+ * To indicate @e why a value is absent, you may want to use
+ * [Results](https://github.com/guillermocalvo/resultlib) instead.
+ *
+ * @file        optional.h
+ * @version     0.1.0
+ * @author      [Guillermo Calvo]
+ * @copyright   Licensed under [Apache 2.0]
+ * @see         For more information, visit the [project on GitHub]
+ *
+ * [Guillermo Calvo]: https://guillermo.dev
+ * [Apache 2.0]: http://www.apache.org/licenses/LICENSE-2.0
+ * [project on GitHub]: https://github.com/guillermocalvo/optional
+ */
+
 #ifndef OPTIONAL_VERSION
 
 /**
