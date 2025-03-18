@@ -1,0 +1,16 @@
+{
+  "name":           "option",
+  "version":        "0.1.0",
+  "description":    "A general-purpose Maybe type for C",
+  "repo":           "guillermocalvo/option",
+  "license":        "Apache-2.0",
+  "src": [
+    "src/option.h"
+  ],
+  "keywords": [
+    "optional",
+    "monad",
+    "maybe-type",
+    "option-type"
+  ]
+}

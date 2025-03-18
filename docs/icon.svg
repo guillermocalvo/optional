@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" height="64" width="64">
+  <style>@media (prefers-color-scheme:dark){.themed{fill:#eee}}</style>
+  <path class="themed" d="M72 0v50L8 69l27 35-30 37 33 13v75l94 27 94-27v-75l33-13-30-38 26-34-63-19V0l-24 32-36-2-36 2z"/>
+  <path fill="#222" d="M81 27v85l51 14 51-14V27l-11 15-40-3a448 448 0 0 0-40 3z"/>
+  <path fill="#a86" d="m41 110-21 27 81 32 25-35zm182 0-85 24 26 35 81-32zm-122 59 25-35zm37-35 26 35zm-1 14v97l80-23v-64l-56 22Zm-10 0-23 32-57-22v64l80 23zM72 59 24 74l20 27 28-8zm120 1v33l28 8 20-27z"/>
+  <path fill="#531" d="m72 102-12 4 12 3zm120 0v7l13-3z"/>
+  <path fill="#fff" d="M132 88c-10 16-15 23-24 2l-7 2c4 9 10 21 21 18 3-1 7-3 10-8 3 4 6 7 10 8 11 1 18-9 21-18l-7-2c-12 20-15 15-24-2zm24-33c6 0 10 4 10 9s-4 9-10 9-10-4-10-9 4-9 10-9zm-48 0c6 0 10 4 10 9s-4 9-10 9-10-4-10-9 4-9 10-9z"/>
+</svg>
